@@ -1,38 +1,40 @@
 # 📊 Customer Behaviour Analysis | End-to-End Data Analytics Project
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+**Tech Stack:** Python | MySQL | Power BI | Pandas
 
 ---
 
 ## 📁 Project Overview
 
-This project presents a complete **end-to-end Customer Behaviour Analysis** workflow, covering data preparation, SQL analytics, Python-based EDA, and Power BI dashboarding. It provides actionable insights into **customer behaviour, sales trends, purchasing patterns**, and **product performance**, enabling data-driven business decisions.
+This project demonstrates a complete end-to-end workflow for **Customer Behaviour Analysis**, covering:
 
-Scope of work includes:
+* Data cleaning and preprocessing
+* SQL-based business analytics
+* Python-driven exploratory data analysis (EDA)
+* Interactive Power BI dashboards
 
-✔ Data cleaning & preprocessing
-✔ Exploratory data analysis (EDA)
-✔ SQL-based business analysis
-✔ Visual storytelling via Power BI
-✔ Insights & recommendations
+It provides actionable insights into **customer behaviour, sales trends, purchasing patterns, and product performance**, enabling informed, data-driven business decisions.
+
+**Scope of Work:**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* SQL Business Analytics
+* Data Visualization & Dashboarding
+* Actionable Insights & Recommendations
 
 ---
 
 ## 📂 Tech Stack
 
-| Component           | Tools                                             |
-| ------------------- | ------------------------------------------------- |
-| **Data Source**     | CSV dataset                                       |
-| **Database**        | MySQL                                             |
-| **Backend Logic**   | SQL (CTEs, Joins, Window Functions, Aggregations) |
-| **Analysis**        | Python (Pandas, NumPy, Matplotlib)                |
-| **Visualization**   | Power BI                                          |
-| **Version Control** | Git & GitHub                                      |
+| Component       | Tools                                             |
+| --------------- | ------------------------------------------------- |
+| Data Source     | CSV Dataset                                       |
+| Database        | MySQL                                             |
+| Backend Logic   | SQL (CTEs, Joins, Window Functions, Aggregations) |
+| Analysis        | Python (Pandas, NumPy, Matplotlib)                |
+| Visualization   | Power BI                                          |
+| Version Control | Git & GitHub                                      |
 
 ---
 
@@ -47,7 +49,7 @@ Scope of work includes:
 ### 🔹 Product & Category Performance
 
 * What are the top-selling categories and items?
-* Which products depend on discounts to drive sales?
+* Which products rely on discounts to drive sales?
 
 ### 🔹 Behaviour Patterns
 
@@ -63,7 +65,7 @@ Scope of work includes:
 
 ## 🧹 Data Cleaning (Python)
 
-Performed comprehensive preprocessing including:
+Performed comprehensive preprocessing, including:
 
 * Removing duplicates
 * Handling missing values
@@ -74,7 +76,7 @@ Performed comprehensive preprocessing including:
 
 ---
 
-## 🛢️ SQL Analytics Included
+## 🛢️ SQL Analytics
 
 Business-driven SQL queries include:
 
@@ -82,17 +84,17 @@ Business-driven SQL queries include:
 * Ranking best-performing products
 * Demand-based category analysis
 * Loyal customer identification
-* Discount-dependency detection
-* Revenue by season, age group, and category
+* Discount dependency detection
+* Revenue analysis by season, age group, and category
 * Subscriber vs. non-subscriber comparison
 
-All SQL queries are included in the repository.
+*All SQL queries are included in the repository.*
 
 ---
 
 ## 📈 Power BI Dashboard Highlights
 
-The final dashboard includes:
+The interactive dashboard includes:
 
 * Customer Overview
 * Product & Category Performance
@@ -106,42 +108,42 @@ It provides a clear and interactive view of customer behaviour and purchase patt
 
 ---
 
-## 🧠 Major Insights Discovered
+## 🧠 Major Insights
 
-* Subscribers spend **significantly more** per order.
-* Clothing & accessories are the **highest revenue-generating** categories.
-* Customers aged **40–60** spend the most on average.
-* Several product categories rely heavily on **discounts** to boost sales.
-* Express shipping users tend to make **higher-value purchases**.
-* 18–30 age group shows higher purchase **frequency**, while older groups show higher **order value**.
+* Subscribers spend significantly more per order.
+* Clothing & accessories generate the highest revenue.
+* Customers aged 40–60 spend the most on average.
+* Several product categories rely heavily on discounts.
+* Express shipping users tend to make higher-value purchases.
+* 18–30 age group shows higher purchase frequency; older groups show higher order value.
 
 ---
 
 ## 🚀 How to Run the Project
 
-### 1. Clone Repository
+1. **Clone the repository**
 
 ```bash
-git clone https://github.com/github.com/anjaliii23/customer-behaviour-analysis.git
+git clone https://github.com/anjaliii23/customer-behaviour-analysis.git
 ```
 
-### 2. Install Required Libraries
+2. **Install Required Libraries**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Import Dataset into MySQL
+3. **Import Dataset into MySQL**
 
-Create a database and load the CSV file into a table.
+* Create a database and load the CSV dataset into a table.
 
-### 4. Run EDA Notebook
+4. **Run EDA Notebook**
 
-Open the `.ipynb` file to view data cleaning and initial analysis.
+* Open the `.ipynb` file to view data cleaning and analysis.
 
-### 5. Explore Power BI Dashboard
+5. **Explore Power BI Dashboard**
 
-Open the `.pbix` file to interact with visual reports.
+* Open the `.pbix` file to interact with visual reports.
 
 ---
 
@@ -157,4 +159,4 @@ Feel free to open an issue or submit a pull request.
 **Anjali Pandey**
 Data Analyst | SQL • Python • Power BI
 📧 [anjalipandey.2304@gmail.com](mailto:anjalipandey.2304@gmail.com)
-🔗 LinkedIn: *(www.linkedin.com/in/anjalipandey023)*
+🔗 [LinkedIn](https://www.linkedin.com/in/anjalipandey023)
